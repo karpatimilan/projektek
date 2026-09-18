@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ASCASO_PARTS")(type "KiCad")(uri "${KIPRJMOD}/ASCASO_PARTS.pretty")(options "")(descr ""))
+)

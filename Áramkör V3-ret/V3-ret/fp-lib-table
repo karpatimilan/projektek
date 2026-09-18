@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SmartCaso")(type "KiCad")(uri "${KIPRJMOD}/RapsberryPi Zero 2W/SmartCaso.pretty")(options "")(descr ""))
+)

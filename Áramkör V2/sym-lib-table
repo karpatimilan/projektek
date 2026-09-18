@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RASPBERRY_PI_ZERO_2_W")(type "KiCad")(uri "${KIPRJMOD}/RASPBERRY_PI_ZERO_2_W.kicad_sym")(options "")(descr ""))
+  (lib (name "AscasoParts")(type "KiCad")(uri "${KIPRJMOD}/AscasoParts.kicad_sym")(options "")(descr ""))
+  (lib (name "2024-09-28_12-35-12")(type "KiCad")(uri "${KIPRJMOD}/2024-09-28_12-35-12.kicad_sym")(options "")(descr ""))
+)
