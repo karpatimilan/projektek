@@ -1,0 +1,3 @@
+# Firebase / Google services config — contains project API keys, keep out of git
+google-services.json
+GoogleService-Info.plist
